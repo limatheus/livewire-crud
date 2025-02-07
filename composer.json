@@ -10,7 +10,7 @@
         }
     ],
     "homepage": "https://github.com/limatheus/livewire-crud",
-    "keywords": ["Laravel", "LiveCrud"],
+    "keywords": ["Laravel", "LivewireCrud"],
     "require": {
         "illuminate/support": "~7|~8|~9|~10|^11"
     },
@@ -20,21 +20,21 @@
     },
     "autoload": {
         "psr-4": {
-            "Imritesh\\LiveCrud\\": "src/"
+            "Limatheus\\LivewireCrud\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Imritesh\\LiveCrud\\Tests\\": "tests"
+            "Limatheus\\LivewireCrud\\Tests\\": "tests"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "Imritesh\\LiveCrud\\LiveCrudServiceProvider"
+                "Limatheus\\LivewireCrud\\LivewireCrudServiceProvider"
             ],
             "aliases": {
-                "LiveCrud": "Imritesh\\LiveCrud\\Facades\\LiveCrud"
+                "LivewireCrud": "Limatheus\\LivewireCrud\\Facades\\LivewireCrud"
             }
         }
     }
