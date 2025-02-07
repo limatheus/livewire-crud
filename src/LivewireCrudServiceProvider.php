@@ -61,7 +61,7 @@ class LivewireCrudServiceProvider extends ServiceProvider
         // Registering package commands.
         $this->commands([
             Crud::class,
-            LiveCrudView::class
+            LivewireCrudView::class
         ]);
     }
 }
