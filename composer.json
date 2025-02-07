@@ -2,7 +2,7 @@
     "name": "limatheus/livewire-crud",
     "description": "Generate Basic Crud Operations With Livewire and Tailwind Css For Laravel",
     "license": "MIT",
-    "version": "v2.3.1",
+    "version": "v1.0.0",
     "authors": [
         {
             "name": "Matheus Lima",
