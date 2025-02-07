@@ -5,24 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d2fc0a73-8f86-464c-b83c-468e307dfd28" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/blade.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/laravel-idea-personal.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/laravel-idea.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/livewire-crud.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/livecrud.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/contributing.md" beforeDir="false" afterPath="$PROJECT_DIR$/contributing.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Commands/Crud.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/Commands/Crud.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Commands/LiveCrudView.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Facades/LiveCrud.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LiveCrud.php" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/LiveCrudServiceProvider.php" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1738900084663</updated>
-      <workItem from="1738900086474" duration="1262000" />
+      <workItem from="1738900086474" duration="1886000" />
     </task>
     <servers />
   </component>
